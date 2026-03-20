@@ -11,4 +11,4 @@ Here is an example of the magnetic geometry inferred for the ultracool dwarf WIS
 </p>
 
 ## Published use cases (as of March 2026)
-- Constaining the magnetic geometry of the brown dwarf WISE J112254.72+255022.2 ([Guirado+ 2025](https://doi.org/10.3847/1538-4357/add5f3)).
+- Constraining the magnetic geometry of the brown dwarf WISE J112254.72+255022.2 ([Guirado+ 2025](https://doi.org/10.3847/1538-4357/add5f3)).
